@@ -2,7 +2,7 @@
 /* For Me — front end (served from GitHub Pages, talks to the Apps Script backend) */
 
 // Paste your Apps Script Web app URL (ends in /exec) here
-const GAS_URL = "https://script.google.com/macros/s/AKfycby-p4d7tZ83wQWJ736W42jSYtJ885NxnohHFRzhahD7X11LMUmotc_75vgCkBzPXG2X/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbwnQbf0jddVMXDL65OR0aDHWVkRI5F9JA_rUduS0etdkXebPeqJnX5YuyPIhsZTBb5n/exec";
 const TOKEN_KEY = "forme_token";
 
 /* ---------- small helpers ---------- */
